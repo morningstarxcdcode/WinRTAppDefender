@@ -284,4 +284,7 @@ Check out these cool animations and visualizations of how the app works:
 
 If you encounter any issues or need help with the project, please feel free to open an issue on [GitHub Issues](https://github.com/morningstarxcdcode/WinRTAppDefender/issues).
 
+yoo guys!
+
+
 ---
