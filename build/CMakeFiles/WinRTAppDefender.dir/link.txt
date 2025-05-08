@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/WinRTAppDefender.dir/main.cpp.o CMakeFiles/WinRTAppDefender.dir/include/src/defender.cpp.o CMakeFiles/WinRTAppDefender.dir/include/src/config.cpp.o CMakeFiles/WinRTAppDefender.dir/include/src/threat_detection.cpp.o -o WinRTAppDefender

@@ -1,0 +1,3 @@
+/Users/morningstar/Documents/WinRTAppDefender/build/CMakeFiles/WinRTAppDefender.dir
+/Users/morningstar/Documents/WinRTAppDefender/build/CMakeFiles/edit_cache.dir
+/Users/morningstar/Documents/WinRTAppDefender/build/CMakeFiles/rebuild_cache.dir
